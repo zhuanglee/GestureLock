@@ -91,12 +91,12 @@ This is GestureLockWidget library.
 ```
 ## 屏幕截图
 ### 3x3样式
-![3x3_normal](app/Screenshots/3x3_normal.png)
-![3x3_wrong](app/Screenshots/3x3_wrong.png)
-![3x3_right](app/Screenshots/3x3_right.png)
+ <img src="./app/Screenshots/3x3_normal.png" width = "480" height = "800" alt="3x3_normal" align=center />
+ <img src="./app/Screenshots/3x3_wrong.png" width = "480" height = "800" alt="3x3_wrong" align=center />
+ <img src="./app/Screenshots/3x3_right.png" width = "480" height = "800" alt="3x3_right" align=center />
 
 ### 4x4样式
-![4x4_normal](app/Screenshots/4x4_normal.png)
-![4x4_moving](app/Screenshots/4x4_moving.png)
-![4x4_wrong](app/Screenshots/4x4_wrong.png)
-![4x4_right](app/Screenshots/4x4_right.png)
+ <img src="./app/Screenshots/4x4_normal.png" width = "480" height = "800" alt="4x4_normal" align=center />
+ <img src="./app/Screenshots/4x4_moving.png" width = "480" height = "800" alt="4x4_moving" align=center />
+ <img src="./app/Screenshots/4x4_wrong.png" width = "480" height = "800" alt="4x4_wrong" align=center />
+ <img src="./app/Screenshots/4x4_right.png" width = "480" height = "800" alt="4x4_right" align=center />
