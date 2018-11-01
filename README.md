@@ -1,5 +1,4 @@
-#GestureLock
-This is GestureLockWidget library.
+# GestureLock
 
 ## 自定义属性
 ```xml
